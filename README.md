@@ -12,4 +12,4 @@ Streamlit is an open-source Python framework that enables the creation of dynami
 
 By deploying our models using Streamlit, we make sophisticated machine learning techniques accessible to a broader audience. This deployment enhances decision-making capabilities, helping businesses proactively address customer churn and improve retention strategies.
 
-Author: Loyce Zawadi Mumbua
+Author: Loyce Mumbua
